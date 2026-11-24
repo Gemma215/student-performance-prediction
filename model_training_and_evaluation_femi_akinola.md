@@ -128,6 +128,4 @@ The results suggest that the model was better at identifying students in
 the Average and Low performance categories than those in the High
 category.
 
-> **Note:** The reported accuracy and classification metrics should be
-> retained only if they were generated using the exact 80:20 train-test
-> split shown above.
+
